@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Egelund48
 - 👀 I’m interested in Software engineering, AI and Machine learning. 
-- 🌱 I’m currently learning AI and Machine learning
-- 💞️ I’m looking to collaborate on idk 
+- 🌱 I’m currently learning new things, such as webdevolopment and backend-devolopment 
+- 💞️ I’m looking to collaborate on all sorts of things
 - 📫 You can reach me at my mail @christianegelundhansen@hotmail.com
 
 <!---
